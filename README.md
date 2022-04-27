@@ -1,1 +1,1 @@
-Practicing manual testing on various fields using Sinsay eshop website.
+Practicing manual testing on various fields
